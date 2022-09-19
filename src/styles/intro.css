@@ -1,0 +1,80 @@
+.Intro {
+  padding-top: 8rem;
+  padding-bottom: 6rem;
+  background-color: #fbd3c6;
+}
+.in-Intro {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+  /* position: relative; */
+}
+.intro-text {
+  width: 60%;
+}
+.pic-div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 40%;
+  /* border: 1px solid red; */
+}
+.profile-pic {
+  border-radius: 50%;
+  width: 55%;
+  border: 10px solid #bdbdbd;
+}
+.T-profile-pic {
+  border-radius: 50%;
+  width: 100%;
+  border: 7px solid #bdbdbd;
+}
+.hello {
+    color:#333333;
+}
+.name {
+  font-size: 72px;
+  background: linear-gradient(to right,#7979a8,#a088c8,#c7b8d8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color:transparent;
+}
+.T-name {
+  font-size: 62px;
+  background: linear-gradient(to right,#7979a8,#a088c8,#c7b8d8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color:transparent;
+}
+.M-name {
+  font-size: 44px;
+  background: linear-gradient(to right,#7979a8,#a088c8,#c7b8d8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color:transparent;
+}
+.quote {
+    text-align:right;
+    color:#333333;
+    margin-left: 5rem;
+}
+.btn-div{
+    margin-top: 4rem;
+}
+.dwn-btn{
+    padding: .5rem 3rem;
+    color: #333333;
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-family: 'Playfair Display', serif;
+    border: none;
+    background-color: #fdbec8;
+    box-shadow: rgb(0 0 0 / 4%) 0px 2.8px 2.2px, rgb(0 0 0 / 5%) 0px 6.7px 5.3px, rgb(0 0 0 / 6%) 0px 12.5px 10px, rgb(0 0 0 / 7%) 0px 22.3px 17.9px, rgb(0 0 0 / 9%) 0px 41.8px 33.4px, rgb(0 0 0 / 12%) 0px 100px 80px; 
+}
+.dwn-btn:hover{
+    cursor: pointer;
+    background-color: #f6f7cb;
+    transition:400ms ease-in-out;
+    transform: scale(1.1);
+    
+    /* transition: transform 250ms ease 0s; */
+    /* padding: .7rem 3.3rem; */
+}

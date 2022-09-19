@@ -1,0 +1,28 @@
+#AboutMe{
+    padding-top: 6rem;
+    padding-bottom: 8rem;
+    background-color:#feffd9;
+}
+.in-aboutme{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.me-text{
+    color: #333333;
+    font-size: 1.4rem;
+    font-weight: 300;
+    line-height: 2rem;
+}
+.T-me-text{
+    color: #333333;
+    font-size: 1.1rem;
+    font-weight: 300;
+    line-height: 2rem;
+}
+.M-me-text{
+    color: #333333;
+    font-size: .8rem;
+    font-weight: 300;
+    line-height: 2rem;
+}

@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&display=swap");
+/* font-family: 'Lobster', cursive; */
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap");
+/* font-family: 'Playfair Display', serif; */
+
+#main-nav-div {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  align-items: center;
+  background-color: #fdbec6;
+  z-index: 10;
+  position: sticky;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  /* overflow: hidden; */
+  /* margin: auto; */
+  /* width: 100%; */
+}
+.nav-items {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 3rem;
+  width: 40%;
+}
+a {
+  text-decoration: none;
+}
+.nav-text {
+  color: #333333;
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+}
