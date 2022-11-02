@@ -25,16 +25,16 @@ const data = [
       name:"JavaScript"
     },
     {
+      src:typescript,
+      name:"TypeScript"
+    },
+    {
       src:react,
       name:"React"
     },
     {
       src:redux,
       name:"Redux"
-    },
-    {
-      src:typescript,
-      name:"TypeScript"
     },
     {
       src:chakra,
