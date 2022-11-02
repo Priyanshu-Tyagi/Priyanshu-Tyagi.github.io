@@ -1,8 +1,17 @@
 import nors from "../../img/projects/norsstrom-rack.png"
 import mail from "../../img/projects/mailtrap.png"
 import myntra from "../../img/projects/myntra.png"
+import clock from "../../img/projects/Clockify.gif"
 
 const data = [
+    {
+        img:clock,
+        name:"Clockify",
+        desc: "This project is clone of clockify.me website. clockify.me is a popular website which provides free time tracking app that lets you track work hours across projects. Unlimited users, free forever.",
+        tech: ["MongoDB","ExpressJS","Redux","NodeJS","TypeScript","JavaScript","ChakraUI"],
+        repo: "https://github.com/Priyanshu-Tyagi/clone-clockify.me",
+        live: "https://effortless-smakager-c491a1.netlify.app/"
+    },
     {
         img:nors,
         name:"Nordstrom Rack",

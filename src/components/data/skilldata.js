@@ -9,6 +9,7 @@ import mui from "../../img/skill/mui.svg"
 import node from "../../img/skill/node.svg"
 import react from "../../img/skill/react.svg"
 import redux from "../../img/skill/redux.svg"
+import typescript from "../../img/skill/typescript.svg"
 
 const data = [
     {
@@ -30,6 +31,10 @@ const data = [
     {
       src:redux,
       name:"Redux"
+    },
+    {
+      src:typescript,
+      name:"TypeScript"
     },
     {
       src:chakra,
