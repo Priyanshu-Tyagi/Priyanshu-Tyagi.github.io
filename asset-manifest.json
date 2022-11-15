@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Priyanshu-Tyagi.github.io/static/css/main.d2a08672.css",
-    "main.js": "/Priyanshu-Tyagi.github.io/static/js/main.8ba3ec2c.js",
-    "static/media/myntra.png": "/Priyanshu-Tyagi.github.io/static/media/myntra.7c830434f09110933df3.png",
-    "static/media/Clockify.gif": "/Priyanshu-Tyagi.github.io/static/media/Clockify.070878532b52f8234114.gif",
-    "static/media/norsstrom-rack.png": "/Priyanshu-Tyagi.github.io/static/media/norsstrom-rack.08615173214ed9d75b09.png",
-    "static/media/Profile-pic.png": "/Priyanshu-Tyagi.github.io/static/media/Profile-pic.2a2abaebf56bf65d0577.png",
-    "static/media/mailtrap.png": "/Priyanshu-Tyagi.github.io/static/media/mailtrap.67afbd68d2c4296337a2.png",
-    "static/media/react.svg": "/Priyanshu-Tyagi.github.io/static/media/react.e5f031c5a9d7c5a3228393d92fc55e03.svg",
-    "static/media/node.svg": "/Priyanshu-Tyagi.github.io/static/media/node.38d424a0fa8071e904b1b9fb12a23df3.svg",
-    "static/media/redux.svg": "/Priyanshu-Tyagi.github.io/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
-    "static/media/mongo.svg": "/Priyanshu-Tyagi.github.io/static/media/mongo.1aca075d5cce0819fea7ea0902d94ce4.svg",
-    "static/media/js.svg": "/Priyanshu-Tyagi.github.io/static/media/js.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
-    "static/media/express.svg": "/Priyanshu-Tyagi.github.io/static/media/express.ea97b712340ffb8f11d85ccb96309507.svg",
-    "static/media/css.svg": "/Priyanshu-Tyagi.github.io/static/media/css.212d777ae2db63edb235490d487dc292.svg",
-    "static/media/typescript.svg": "/Priyanshu-Tyagi.github.io/static/media/typescript.8d9549db1a0f5d73a35aa5dab48a09f9.svg",
-    "static/media/git.svg": "/Priyanshu-Tyagi.github.io/static/media/git.c60b7e5ae8ec2562f23fdddcab300026.svg",
-    "index.html": "/Priyanshu-Tyagi.github.io/index.html",
-    "static/media/html.svg": "/Priyanshu-Tyagi.github.io/static/media/html.8daa82ad3cc2762b91e3b4c50ab587c0.svg",
-    "static/media/chakra-ui.svg": "/Priyanshu-Tyagi.github.io/static/media/chakra-ui.8ca6158c0a0c9b4765405be4d0906b5a.svg",
-    "static/media/mui.svg": "/Priyanshu-Tyagi.github.io/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
-    "main.d2a08672.css.map": "/Priyanshu-Tyagi.github.io/static/css/main.d2a08672.css.map",
-    "main.8ba3ec2c.js.map": "/Priyanshu-Tyagi.github.io/static/js/main.8ba3ec2c.js.map"
+    "main.css": "/static/css/main.d2a08672.css",
+    "main.js": "/static/js/main.4cf62031.js",
+    "static/media/myntra.png": "/static/media/myntra.7c830434f09110933df3.png",
+    "static/media/Clockify.gif": "/static/media/Clockify.070878532b52f8234114.gif",
+    "static/media/norsstrom-rack.png": "/static/media/norsstrom-rack.08615173214ed9d75b09.png",
+    "static/media/Profile-pic.png": "/static/media/Profile-pic.2a2abaebf56bf65d0577.png",
+    "static/media/mailtrap.png": "/static/media/mailtrap.67afbd68d2c4296337a2.png",
+    "static/media/react.svg": "/static/media/react.e5f031c5a9d7c5a3228393d92fc55e03.svg",
+    "static/media/node.svg": "/static/media/node.38d424a0fa8071e904b1b9fb12a23df3.svg",
+    "static/media/redux.svg": "/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/mongo.svg": "/static/media/mongo.1aca075d5cce0819fea7ea0902d94ce4.svg",
+    "static/media/js.svg": "/static/media/js.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "static/media/express.svg": "/static/media/express.ea97b712340ffb8f11d85ccb96309507.svg",
+    "static/media/css.svg": "/static/media/css.212d777ae2db63edb235490d487dc292.svg",
+    "static/media/typescript.svg": "/static/media/typescript.8d9549db1a0f5d73a35aa5dab48a09f9.svg",
+    "static/media/git.svg": "/static/media/git.c60b7e5ae8ec2562f23fdddcab300026.svg",
+    "static/media/html.svg": "/static/media/html.8daa82ad3cc2762b91e3b4c50ab587c0.svg",
+    "index.html": "/index.html",
+    "static/media/chakra-ui.svg": "/static/media/chakra-ui.8ca6158c0a0c9b4765405be4d0906b5a.svg",
+    "static/media/mui.svg": "/static/media/mui.fd510ed8518b192069590b04e2e6348a.svg",
+    "main.d2a08672.css.map": "/static/css/main.d2a08672.css.map",
+    "main.4cf62031.js.map": "/static/js/main.4cf62031.js.map"
   },
   "entrypoints": [
     "static/css/main.d2a08672.css",
-    "static/js/main.8ba3ec2c.js"
+    "static/js/main.4cf62031.js"
   ]
 }
