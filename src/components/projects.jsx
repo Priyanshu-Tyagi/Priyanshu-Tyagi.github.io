@@ -1,7 +1,6 @@
 import "../styles/projects.css";
 import data from "./data/projectdata";
 import { Badge, Button, Icon } from "@chakra-ui/react";
-import { EmailIcon } from "@chakra-ui/icons";
 
 const github = () => {return <Icon boxSize={5} viewBox='0 0 30 30'>
 <path
