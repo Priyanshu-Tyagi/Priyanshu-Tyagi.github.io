@@ -44,6 +44,10 @@ export default function ContactMe({ Desktop, Tablet, Mobile }) {
                     </a>
                   </div>
                 ))}
+                <div style={{display:'flex'}}>
+                  <img height="24" width='30' src={phone} alt="phone" />
+                  <p style={{fontSize:".8rem"}}>+91 7210940400</p>
+                </div>
               </div>
             </div>
             <h2 className="contact-text">Designed and build by Priyanshu Tyagi.</h2>
@@ -64,6 +68,10 @@ export default function ContactMe({ Desktop, Tablet, Mobile }) {
                     </a>
                   </div>
                 ))}
+                <div style={{display:'flex', textAlign:"center"}}>
+                  <img height="18" width='24' src={phone} alt="phone" />
+                  <p style={{fontSize:".7rem"}}>+91 7210940400</p>
+                </div>
               </div>
             </div>
             <h2 className="M-contact-text">Designed and build by Priyanshu Tyagi.</h2>
